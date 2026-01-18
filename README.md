@@ -1,4 +1,4 @@
-
+![thecodingcabin_pixel_banner](https://github.com/user-attachments/assets/dad054e9-275e-428b-a670-027c3cd21d97)
 ## 🪵 The Coding Cabin
 
 Built with care, depth, and long-term thinking.
