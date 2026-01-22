@@ -38,3 +38,15 @@ Service (Business Logic)
 Repository (Persistence)
   ↓
 Database
+```
+
+## 3. Layered Architecture "springboot-rest-api"
+``` text
+com.thecodingcabin.springbootrestapi
+├── controller
+├── service
+├── repository
+├── domain
+├── dto
+└── exception
+```
